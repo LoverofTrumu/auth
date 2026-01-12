@@ -6,6 +6,13 @@
       "access_level": "full",
       "expiry_date": "2026-12-31",
       "last_seen": "2026-01-10"
+    },
+        {
+      "username": "vm",
+      "machine_id": "c77ef1fcdddba11a",
+      "access_level": "full",
+      "expiry_date": "2026-12-31",
+      "last_seen": "2026-01-10"
     }
   ],
   "version": "1.0",
